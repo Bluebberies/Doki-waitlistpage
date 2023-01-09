@@ -35,6 +35,7 @@ export default function Home() {
       <body>
         <div className="wrapper">
           <Nav />
+          <Hero />
         </div>
 
       </body >
