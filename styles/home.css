@@ -156,7 +156,6 @@ body {
         flex-direction: column;
         justify-content: space-around;
         align-items: center;
-        background-color: #6B006B;
         cursor: pointer;
     }
 
